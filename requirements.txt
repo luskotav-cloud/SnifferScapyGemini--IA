@@ -1,0 +1,5 @@
+scapy
+google-generativeai
+python-dotenv
+urllib3
+pathlib
